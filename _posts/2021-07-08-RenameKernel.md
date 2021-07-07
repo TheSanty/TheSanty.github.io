@@ -2,7 +2,7 @@
 layout: post
 title:  "Rename Kernel For Redmi 6 Pro & MI A2 lite (sakura & Daisy)"
 categories: blog
-tags : [sakura] [daisy]
+tags : [sakura,daisy]
 author : SudhirYadav
 ---
 
