@@ -19,9 +19,10 @@ This Kernel aims to use be simple, stable and optimized!
 * selinux/avc: Only log denials
 * kallsyms: reduce size a little on 64-bit
 * drivers: power: add timeouts to wakelocks
-* qpnp-fg-gen3: allow write any learned capacity
-* power: qpnp-fg-gen3: Return true battery capacity
-* power: qpnp-fg-gen3: Hardcode learned_cc_uah for sakura and daisy
+* dts: msm8953-cpu: Update busy-cost-data for 2208000 MHz
+* dts: msm8953-cpu: Update cluster-cost-data for 652Mhz&2208Mhz
+* dts: msm8953: disable unhandled or broken IRQ monitoring
+* dts: msm8953: suppress verbose output during boot
 
 ### Notes
 * Separate Build for Daisy And Sakura so download device specific.
